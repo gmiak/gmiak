@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gmiak
-- 👀 I have some experience with: Desktop app using JavaFX, web development using HTML & PHP, Cross-platform development Flutter
+- 👀 I have some experience with: Desktop app using Java - JavaFX - Python & C, web development using HTML - CSS & PHP 
 - 🌱 I’m currently learning Flutter & Dart
 - 📫 How to reach me: kayss.g@gmail.com
 
