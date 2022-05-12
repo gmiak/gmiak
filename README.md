@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmiak
 - 👀 I have some experience with: Desktop app using Java - JavaFX - Python & C, web development using HTML - CSS & PHP 
-- 🌱 I’m currently learning Flutter & Dart
+- 🌱 I’m currently learning Flutter & Dart - React & TypeScript
 - 📫 How to reach me: kayss.g@gmail.com
 
 <!---
